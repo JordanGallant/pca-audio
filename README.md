@@ -1,4 +1,4 @@
-# 🎧 PCA on Audio Data: When Should Music Be Played?
+# 🎧 Kmeans on Audio Data: When Should Music Be Played?
 
 ## 📌 Project Objective
 
